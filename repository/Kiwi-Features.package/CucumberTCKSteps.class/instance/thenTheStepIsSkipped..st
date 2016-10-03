@@ -3,4 +3,4 @@ thenTheStepIsSkipped: stepName
 
 	<then: 'the step "([^"]*)" is skipped'>
 	
-	(scenarioResult getStepByTitle: stepName) isSkipped should be: true.
+	(scenarioResult stepNamed: stepName) isSkipped should be: true.
