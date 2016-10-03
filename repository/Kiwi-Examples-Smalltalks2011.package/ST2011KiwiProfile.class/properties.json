@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Examples-Smalltalks2011",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ST2011KiwiProfile",
+	"pools" : [
+		 ],
+	"super" : "KiwiProfile",
+	"type" : "normal" }

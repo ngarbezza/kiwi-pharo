@@ -1,0 +1,18 @@
+{
+	"category" : "Kiwi-Examples-Smalltalks2011",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conference",
+		"attendeeName",
+		"attendeeEmail",
+		"proposal",
+		"attendee" ],
+	"name" : "ST2011Steps",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

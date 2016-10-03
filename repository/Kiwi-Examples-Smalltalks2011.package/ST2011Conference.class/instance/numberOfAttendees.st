@@ -1,0 +1,4 @@
+accessing
+numberOfAttendees
+
+	^attendees size
