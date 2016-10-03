@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:54",
+	"instvars" : [
+		 ],
+	"name" : "KiwiResultItemTreeNodeModel",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeNodeModel",
+	"type" : "normal" }

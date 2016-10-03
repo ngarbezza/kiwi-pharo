@@ -1,0 +1,21 @@
+{
+	"category" : "Kiwi-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:53",
+	"instvars" : [
+		"builder",
+		"treeView",
+		"textEditor",
+		"output",
+		"selectedResult",
+		"buttonsPanel",
+		"browseButton",
+		"result" ],
+	"name" : "KiwiResultsWindow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

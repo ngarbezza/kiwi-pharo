@@ -1,0 +1,4 @@
+accessing
+stepDefinitionsClasses
+
+	^self runner stepDefinitionsClasses

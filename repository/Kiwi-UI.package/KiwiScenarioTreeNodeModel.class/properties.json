@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KiwiScenarioTreeNodeModel",
+	"pools" : [
+		 ],
+	"super" : "KiwiResultItemTreeNodeModel",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am the window responsible for showing the results of a Kiwi execution.

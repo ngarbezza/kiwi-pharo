@@ -1,0 +1,24 @@
+{
+	"category" : "Kiwi-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:53",
+	"instvars" : [
+		"builder",
+		"mainWindow",
+		"featuresTabGroup",
+		"stepClassesList",
+		"stepDefinitionSelectionIndex",
+		"runner",
+		"runAllFeaturesButton",
+		"runSelectedFeatureButton",
+		"removeStepDefButton",
+		"saveToFileButton",
+		"saveToMethodButton" ],
+	"name" : "KiwiUI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

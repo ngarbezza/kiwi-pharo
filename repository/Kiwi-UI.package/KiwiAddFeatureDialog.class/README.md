@@ -1,0 +1,1 @@
+I am a Dialog for adding new features to the main window.

@@ -1,0 +1,22 @@
+{
+	"category" : "Kiwi-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:53",
+	"instvars" : [
+		"option",
+		"classSelected",
+		"classSelectedLabel",
+		"methodSelectedLabel",
+		"featureFilePath",
+		"featureFilePathField",
+		"parentWindow",
+		"methodSelected",
+		"featureToAdd" ],
+	"name" : "KiwiAddFeatureDialog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+private
+defaultOption
+
+	^#newFeature

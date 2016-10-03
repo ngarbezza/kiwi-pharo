@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KiwiStepErrorTreeNodeModel",
+	"pools" : [
+		 ],
+	"super" : "KiwiResultItemTreeNodeModel",
+	"type" : "normal" }

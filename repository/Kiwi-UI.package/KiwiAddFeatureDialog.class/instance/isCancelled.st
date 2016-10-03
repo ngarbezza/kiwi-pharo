@@ -1,0 +1,4 @@
+testing
+isCancelled
+
+	^parentWindow cancelled
