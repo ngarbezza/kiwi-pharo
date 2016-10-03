@@ -1,14 +1,14 @@
 private
 searchClassOfFeature
+| request compositeRequest|
 
-	classSelected := (OBCompletionDialog	openOn: (
-		OBCompletionRequest new
-			collection: Smalltalk allClasses caseSensitive: false;
-			prompt: 'Select a class'
-		)
-	) answer.
-	
-	classSelected ifNotNil: [
-		classSelectedLabel contents: classSelected asString.
-		featureToAdd featureClass: classSelected name.
-	].
+
+request := (GLMSingleSpotterRequest new
+				collection: Smalltalk allClasses;
+				prompt: 'Select a class').
+compositeRequest := GLMSpotterRequest new prompt: 'Select a class'; add:request.
+	classSelected := (GLMMorphicSpotter openOn: compositeRequest 
+			) answer.
+	classSelected
+		ifNotNil: [ classSelectedLabel contents: classSelected asString.
+			featureToAdd featureClass: classSelected name ]
