@@ -1,0 +1,1 @@
+This class contains the step definitions needed to pass the 'CucumberTCKFeatures>>coreFeature' feature.

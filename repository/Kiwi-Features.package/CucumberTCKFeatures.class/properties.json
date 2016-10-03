@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Features",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 2/4/2012 18:00",
+	"instvars" : [
+		 ],
+	"name" : "CucumberTCKFeatures",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

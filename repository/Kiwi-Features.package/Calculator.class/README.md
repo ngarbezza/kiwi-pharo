@@ -1,0 +1,1 @@
+This class has the logic needed to pass the 'CucumberTCKFeatures>>coreFeature' feature.

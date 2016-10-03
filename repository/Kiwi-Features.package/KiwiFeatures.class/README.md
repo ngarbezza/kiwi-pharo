@@ -1,0 +1,1 @@
+This class contains the features used to test Kiwi

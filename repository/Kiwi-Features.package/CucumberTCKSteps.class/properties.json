@@ -1,0 +1,18 @@
+{
+	"category" : "Kiwi-Features",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 2/4/2012 18:05",
+	"instvars" : [
+		"scenario",
+		"feature",
+		"runner",
+		"scenarioResult",
+		"featureResult" ],
+	"name" : "CucumberTCKSteps",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

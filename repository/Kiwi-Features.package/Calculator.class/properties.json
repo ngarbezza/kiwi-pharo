@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Features",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 2/4/2012 18:04",
+	"instvars" : [
+		"result" ],
+	"name" : "Calculator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

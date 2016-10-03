@@ -1,0 +1,4 @@
+private
+temporaryStepClassName
+	
+	^#CucumberTemporarySteps
