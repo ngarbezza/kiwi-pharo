@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Examples-FootballMatches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"match" ],
+	"name" : "FootballMatchesSteps",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

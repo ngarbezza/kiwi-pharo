@@ -1,0 +1,4 @@
+results
+globalScoreTeamB
+
+	^teamBFirstLegScore + teamBSecondLegScore.

@@ -1,0 +1,19 @@
+{
+	"category" : "Kiwi-Examples-FootballMatches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"teamA",
+		"teamB",
+		"teamAFirstLegScore",
+		"teamBFirstLegScore",
+		"teamASecondLegScore",
+		"teamBSecondLegScore" ],
+	"name" : "RoundMatch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
