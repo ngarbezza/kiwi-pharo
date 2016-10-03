@@ -1,0 +1,4 @@
+accessing
+scenarioResults
+
+	^self children

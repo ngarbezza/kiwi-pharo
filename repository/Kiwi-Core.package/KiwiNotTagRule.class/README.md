@@ -1,0 +1,1 @@
+I represent a tag rule in Kiwi which filters all scenarios or features that does NOT satisfy my inner tag rule. The syntax is the following: ~tagRule. Examples: ~@tag1, ~(@tag2 & @tag3)

@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 5/3/2012 01:46",
+	"instvars" : [
+		 ],
+	"name" : "KiwiInternationalization",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

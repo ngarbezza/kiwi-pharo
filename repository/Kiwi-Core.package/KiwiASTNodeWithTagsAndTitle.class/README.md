@@ -1,0 +1,1 @@
+I represent an AST Node of the Gherkin syntax that has a title, a description, and accepts tags.

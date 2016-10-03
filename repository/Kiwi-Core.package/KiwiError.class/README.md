@@ -1,0 +1,1 @@
+I represent errors in Kiwi, such as non-existent step definition classes, or non-existent or syntactically wrong features.

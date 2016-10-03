@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 12/22/2011 08:08",
+	"instvars" : [
+		 ],
+	"name" : "KiwiFeature",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

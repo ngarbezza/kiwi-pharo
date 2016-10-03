@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 4/15/2012 08:43",
+	"instvars" : [
+		"children" ],
+	"name" : "KiwiCompositeResult",
+	"pools" : [
+		 ],
+	"super" : "KiwiResultItem",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+featureContent
+
+	^self subclassResponsibility

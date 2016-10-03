@@ -1,0 +1,1 @@
+I represent a Gherkin AST node that accepts comments.

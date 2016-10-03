@@ -1,0 +1,1 @@
+I'm a scenario result of a Kiwi execution.

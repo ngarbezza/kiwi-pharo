@@ -1,0 +1,16 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:46",
+	"instvars" : [
+		"leftRule",
+		"rightRule",
+		"operator" ],
+	"name" : "KiwiCompositeTagRule",
+	"pools" : [
+		 ],
+	"super" : "KiwiTagRule",
+	"type" : "normal" }

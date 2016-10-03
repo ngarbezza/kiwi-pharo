@@ -1,0 +1,1 @@
+I am a node of the Gherkin AST. I represent a group of tags, used to filter execution of scenarios and/or features.

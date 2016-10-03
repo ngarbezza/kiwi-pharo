@@ -1,0 +1,4 @@
+accessing
+currentScenarioResult
+
+	^self currentFeatureResult currentScenarioResult

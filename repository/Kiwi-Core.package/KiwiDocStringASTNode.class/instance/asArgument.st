@@ -1,0 +1,4 @@
+accessing
+asArgument
+
+	^self content

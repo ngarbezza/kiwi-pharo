@@ -1,0 +1,22 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 2/21/2012 11:51",
+	"instvars" : [
+		"gherkinTag",
+		"tagExpression",
+		"orExpression",
+		"andExpression",
+		"notExpression",
+		"primaryExpression",
+		"parentheses",
+		"andExpr",
+		"notExpr" ],
+	"name" : "KiwiTagFilterGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am responsible of write a feature in a stream in a nice, organized, formatted way.

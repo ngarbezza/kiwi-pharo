@@ -1,0 +1,1 @@
+I represent a tag rule in Kiwi.

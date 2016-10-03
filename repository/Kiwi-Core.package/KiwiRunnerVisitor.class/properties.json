@@ -1,0 +1,16 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:45",
+	"instvars" : [
+		"currentStepKind",
+		"stepDefinitions",
+		"results" ],
+	"name" : "KiwiRunnerVisitor",
+	"pools" : [
+		 ],
+	"super" : "KiwiTaggedVisitor",
+	"type" : "normal" }

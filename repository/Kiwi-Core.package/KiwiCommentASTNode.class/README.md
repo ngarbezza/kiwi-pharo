@@ -1,0 +1,1 @@
+I'm a node of the Gherkin AST that represents a comment. Comments are completely ignored by the runner.

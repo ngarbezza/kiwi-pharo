@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"astNode" ],
+	"name" : "KiwiResultItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

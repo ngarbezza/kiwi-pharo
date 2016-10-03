@@ -1,0 +1,4 @@
+adding results
+addBackgroundResult: aBackgroundASTNode
+
+	^self currentFeatureResult addBackgroundResult: aBackgroundASTNode

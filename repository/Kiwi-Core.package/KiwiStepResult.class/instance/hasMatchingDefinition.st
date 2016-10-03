@@ -1,0 +1,4 @@
+testing
+hasMatchingDefinition
+
+	^matchingMethod notNil

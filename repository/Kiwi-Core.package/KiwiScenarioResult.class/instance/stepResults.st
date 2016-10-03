@@ -1,0 +1,4 @@
+accessing
+stepResults
+
+	^self children

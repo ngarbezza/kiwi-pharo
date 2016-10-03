@@ -1,0 +1,1 @@
+I represent a Gherkin Table, I am a node of the Gherkin AST. Tables can be used as step arguments (see KiwiStepASTNode class) or in an examples section (see KiwiExamplesSectionASTNode class).

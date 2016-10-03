@@ -1,0 +1,1 @@
+I am a node of the Gherkin AST that represent the Examples section of a Scenario Outline. See KiwiScenarioOutlineASTNode class for more information.

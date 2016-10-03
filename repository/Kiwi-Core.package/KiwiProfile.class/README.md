@@ -1,0 +1,1 @@
+I am the base class for Kiwi profiles. All profiles should extend from me. A profile store many run configurations and it builds them easily.

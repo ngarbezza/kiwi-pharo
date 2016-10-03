@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 2/21/2012 11:54",
+	"instvars" : [
+		"tags" ],
+	"name" : "KiwiTagGroupASTNode",
+	"pools" : [
+		 ],
+	"super" : "KiwiASTNode",
+	"type" : "normal" }

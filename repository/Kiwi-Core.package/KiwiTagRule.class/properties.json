@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 1/8/2012 00:48",
+	"instvars" : [
+		 ],
+	"name" : "KiwiTagRule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

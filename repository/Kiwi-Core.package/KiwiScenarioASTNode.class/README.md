@@ -1,0 +1,1 @@
+I am a node of the Gherkin AST that represents a scenario. I have a list of steps (KiwiStepASTNode) and like features, I can have tags and comments.

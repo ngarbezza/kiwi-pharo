@@ -1,0 +1,4 @@
+accessing
+innerRule
+
+	^innerRule

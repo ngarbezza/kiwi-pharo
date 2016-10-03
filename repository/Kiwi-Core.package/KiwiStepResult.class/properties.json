@@ -1,0 +1,16 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 4/22/2012 09:37",
+	"instvars" : [
+		"status",
+		"failure",
+		"matchingMethod" ],
+	"name" : "KiwiStepResult",
+	"pools" : [
+		 ],
+	"super" : "KiwiResultItem",
+	"type" : "normal" }

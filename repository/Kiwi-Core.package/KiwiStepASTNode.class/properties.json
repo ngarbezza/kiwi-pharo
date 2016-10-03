@@ -1,0 +1,16 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 4/1/2012 10:48",
+	"instvars" : [
+		"kind",
+		"body",
+		"argument" ],
+	"name" : "KiwiStepASTNode",
+	"pools" : [
+		 ],
+	"super" : "KiwiCommentableASTNode",
+	"type" : "normal" }

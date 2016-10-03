@@ -1,0 +1,1 @@
+I represent an invalid feature (with syntax error/s). I'm a wrapper of PPFailure (PetitParser's failure object).

@@ -1,0 +1,1 @@
+I represent a Stream which remembers an indentation level, so cr's will indent properly. See indent and indentBack in 'indentation' category.

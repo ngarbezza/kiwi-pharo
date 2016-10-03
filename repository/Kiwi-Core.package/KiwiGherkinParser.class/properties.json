@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 4/22/2012 09:28",
+	"instvars" : [
+		 ],
+	"name" : "KiwiGherkinParser",
+	"pools" : [
+		 ],
+	"super" : "KiwiGherkinGrammar",
+	"type" : "normal" }

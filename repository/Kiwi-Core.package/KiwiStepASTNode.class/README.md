@@ -1,0 +1,1 @@
+I am a node of the Gherkin AST. I represent a Step. Steps have a kind (Given, When, Then, And or But) and a body (with the content of the step). Optionally steps can have a table or string as argument (see classes KiwiTableASTNode and KiwiDocStringASTNode).

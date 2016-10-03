@@ -1,0 +1,2 @@
+I am the Gherkin syntax parser. Gherkin is the language used to write Kiwi features.
+I build an Abstract Syntax Tree, in order to be executed later. See all classes ending with *ASTNode for more information.
