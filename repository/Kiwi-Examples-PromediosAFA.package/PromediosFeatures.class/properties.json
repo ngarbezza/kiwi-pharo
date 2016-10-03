@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Examples-PromediosAFA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PromediosFeatures",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

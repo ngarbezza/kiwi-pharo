@@ -1,0 +1,16 @@
+{
+	"category" : "Kiwi-Examples-PromediosAFA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"temporada",
+		"puntos",
+		"partidosJugados" ],
+	"name" : "ResultadoPorTemporada",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

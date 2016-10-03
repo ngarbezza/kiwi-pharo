@@ -1,0 +1,15 @@
+{
+	"category" : "Kiwi-Examples-PromediosAFA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nombre",
+		"temporadas" ],
+	"name" : "Equipo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
