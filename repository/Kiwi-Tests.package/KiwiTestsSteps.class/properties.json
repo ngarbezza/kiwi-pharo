@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NahuelGarbezza 4/22/2012 10:29",
+	"instvars" : [
+		"state" ],
+	"name" : "KiwiTestsSteps",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

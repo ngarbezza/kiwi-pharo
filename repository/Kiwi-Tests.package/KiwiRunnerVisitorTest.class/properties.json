@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"runner" ],
+	"name" : "KiwiRunnerVisitorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

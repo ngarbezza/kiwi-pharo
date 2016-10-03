@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KiwiProfileExample",
+	"pools" : [
+		 ],
+	"super" : "KiwiProfile",
+	"type" : "normal" }

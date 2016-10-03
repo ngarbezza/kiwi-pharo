@@ -1,0 +1,9 @@
+parsing simple rules
+testParseSimpleOrRule
+
+	| result |
+	result := parser parse: '@tag1 | @tag2'.	
+	result should be an instance of: KiwiCompositeTagRule.
+	result operator should be: #|.
+	result leftRule tagName should equal: 'tag1'.
+	result rightRule tagName should equal: 'tag2'.

@@ -1,0 +1,14 @@
+{
+	"category" : "Kiwi-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"result" ],
+	"name" : "KiwiScenarioResultTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
