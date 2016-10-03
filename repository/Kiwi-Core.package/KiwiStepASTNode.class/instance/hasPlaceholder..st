@@ -1,4 +1,4 @@
 placeholder processing
 hasPlaceholder: name
 
-	^self body includesSubString: '<' , name , '>'
+	^self body includesSubstring: '<' , name , '>'

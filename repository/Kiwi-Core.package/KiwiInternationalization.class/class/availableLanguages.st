@@ -1,4 +1,4 @@
 accessing
 availableLanguages
 
-	^self class allMethodsInCategory: #translations
+	^self class allSelectorsInProtocol: #translations
