@@ -1,4 +1,4 @@
 initialization
 testInitializesWithAnIndentStream
 
-	KiwiFormatterVisitor new stream should be an instance of: IndentStream
+	KiwiFormatterVisitor new stream should beInstanceOf: IndentStream

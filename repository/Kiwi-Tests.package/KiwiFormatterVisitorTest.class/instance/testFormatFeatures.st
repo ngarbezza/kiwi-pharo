@@ -6,7 +6,7 @@ testFormatFeatures
 			(feature1 accept: formatter) will: [ formatter stream nextPutAll: 'feature 1' ].
 			(feature2 accept: formatter) will: [ formatter stream nextPutAll: 'feature 2' ].
 		]
-	] runScenario.
+	] runWithMocks.
 
 	formatter stream contents should equal:
 'feature 1

@@ -8,5 +8,5 @@ testParseScenarioOutlineWithOneExamplesSection
 		|this|is|a|table|
 '.
 	scenarioOutlineAst isPetitFailure should be: false.
-	scenarioOutlineAst should be an instance of: KiwiScenarioOutlineASTNode.
+	scenarioOutlineAst should beInstanceOf: KiwiScenarioOutlineASTNode.
 	scenarioOutlineAst examplesSections size should be: 1

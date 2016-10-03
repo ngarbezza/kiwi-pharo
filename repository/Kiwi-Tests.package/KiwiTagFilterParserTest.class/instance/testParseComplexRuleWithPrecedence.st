@@ -6,9 +6,9 @@ testParseComplexRuleWithPrecedence
 	result2 := parser parse: '~@tag1 & @tag2 | @tag3'.
 	
 	result operator should be: #|.
-	result leftRule should be an instance of: KiwiNotTagRule.
+	result leftRule should beInstanceOf: KiwiNotTagRule.
 	result rightRule operator should be: #&.
 	
 	result2 operator should be: #|.
 	result2 leftRule operator should be: #&.
-	result2 rightRule should be an instance of: KiwiIncludeTagRule.
+	result2 rightRule should beInstanceOf: KiwiIncludeTagRule.

@@ -14,7 +14,7 @@ Scenario Outline: title
 		|this|is|a|table|
 '.
 	scenarioOutlineAst isPetitFailure should be: false.
-	scenarioOutlineAst should be an instance of: KiwiScenarioOutlineASTNode.
+	scenarioOutlineAst should beInstanceOf: KiwiScenarioOutlineASTNode.
 	scenarioOutlineAst comment notNil should be: true.
 	scenarioOutlineAst tagGroup notNil should be: true.
 	scenarioOutlineAst title should equal: 'title'.

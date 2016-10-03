@@ -7,4 +7,4 @@ testParseBackgroundWithComments
 	Background:'.
 	
 	backgroundAst isPetitFailure should be: false.
-	backgroundAst comment should be an instance of: KiwiCommentASTNode.
+	backgroundAst comment should beInstanceOf: KiwiCommentASTNode.

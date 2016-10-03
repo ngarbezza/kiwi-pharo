@@ -7,4 +7,4 @@ testParseFeatureWithBackground
 		Background: xxxx'.
 	
 	featureAst isPetitFailure should be: false.
-	featureAst background should be an instance of: KiwiBackgroundASTNode.
+	featureAst background should beInstanceOf: KiwiBackgroundASTNode.
